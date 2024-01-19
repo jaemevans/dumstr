@@ -71,8 +71,8 @@ class _ItemInfoState extends State<ItemInfo> {
                 Container(
                   child: Image.asset(
                     widget.image,
-                    height: 300,
-                    width: 400,
+                    height: 500,
+                    width: 500,
                     fit: BoxFit.cover,
                   ),
                 ),
